@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.televisiongratishd.com/img/espn2mexico.png" group-title="Deportes", Espn 2 (Mexico)
+https://live.televisiongratishd.com/tvplus2022/28_.m3u8?token=YtIKFd2fJjSyTW5EqOFXqw&expires=1611692088&ip=190.148.52.228
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.televisiongratishd.com/img/discoverykids.png" group-title="Infantil", Discovery KIDS
+https://live.televisiongratishd.com/tvplus2022/117_.m3u8?token=_EC53JPV3aigxAOV5_xvSg&expires=1611692718&ip=190.148.52.228
